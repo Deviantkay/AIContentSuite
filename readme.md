@@ -240,7 +240,7 @@ cd ai-content-suite
 
 ## 📝 Release Notes
 
-### **Version 1.2.6** - *December 2024*
+### **Version 1.2.6** - *June 2025*
 
 #### **🆕 Feature Additions**
 - **Manual Crop Interface**: Professional-grade single-image editing
