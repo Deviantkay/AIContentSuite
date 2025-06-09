@@ -1,10 +1,10 @@
 # AI Content Suite - Enterprise Image Processing Platform
 
-[![Version](https://img.shields.io/badge/version-1.2.6-blue.svg)](https://github.com/glyphiez/ai-content-suite)
+[![Version](https://img.shields.io/badge/version-1.2.6-blue.svg)](https://github.com/Deviantkay/AIContentSuite)
 [![License](https://img.shields.io/badge/license-Free%20Use-green.svg)](#-license--legal)
 [![JavaScript](https://img.shields.io/badge/javascript-ES6+-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/glyphiez/ai-content-suite)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/glyphiez/ai-content-suite)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/Deviantkay/AIContentSuite)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/Deviantkay/AIContentSuite)
 
 > **Enterprise-grade web application for intelligent image processing and automated metadata management**
 
@@ -341,8 +341,8 @@ While the software is free to use, the **core concepts, ideas, and methodologies
 
 ### **📞 Permission Requests**
 For permission to use the core concepts in competing products or derivative works, contact:
-- **Email**: [Contact through GitHub](https://github.com/glyphiez)
-- **Repository**: [AI Content Suite Issues](https://github.com/glyphiez/ai-content-suite/issues)
+- **Email**: [Contact through GitHub](https://github.com/Deviantkay)
+- **Repository**: [AI Content Suite Issues](https://github.com/Deviantkay/AIContentSuite/issues)
 
 ### **🔧 Third-Party Components**
 This software incorporates open-source libraries (Piexifjs, Cropper.js, JSZip, Tailwind CSS) which retain their respective licenses.
@@ -356,7 +356,7 @@ This software incorporates open-source libraries (Piexifjs, Cropper.js, JSZip, T
 
 **Version 1.2.6** | **© 2024 Glyphiez - All Rights Reserved** | **Free Use Software**
 
-Developed and maintained by **[Glyphiez](https://github.com/glyphiez)**
+Developed and maintained by **[Glyphiez](https://github.com/Deviantkay)**
 
 ---
 
@@ -364,8 +364,8 @@ Developed and maintained by **[Glyphiez](https://github.com/glyphiez)**
 
 *Software is free for all use. Core ideas and concepts remain protected IP.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/glyphiez/ai-content-suite)
-[![Issues](https://img.shields.io/badge/Issues-Support-red?logo=github)](https://github.com/glyphiez/ai-content-suite/issues)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Deviantkay/AIContentSuite)
+[![Issues](https://img.shields.io/badge/Issues-Support-red?logo=github)](https://github.com/Deviantkay/AIContentSuite/issues)
 [![License](https://img.shields.io/badge/License-Free%20Use-green.svg)](#-license--legal)
 
 </div>
